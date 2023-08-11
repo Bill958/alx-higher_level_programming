@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-import builtins; builtins.print("#pythoniscool")
+exec("".join([chr(35), "pythoniscool", chr(10)]))
 
